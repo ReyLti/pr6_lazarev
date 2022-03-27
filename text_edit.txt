@@ -18,4 +18,3 @@ commit 2 on s5
 commit 3 on s5
 commit 4 on s5
 we add session4
-coomit 1 on s7(Edit name file)
