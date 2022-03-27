@@ -5,3 +5,4 @@ commit 1 on s1
 commit 2 on s1
 commit 3 on s1
 commit 1 on s2
+commit 2 on s2
