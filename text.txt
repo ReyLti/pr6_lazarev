@@ -21,5 +21,9 @@ we add session4
 commit 1 on s7(Edit name file)
 commit 2 on s7(finish)
 commit 5 on s5(finish)
+<<<<<<< HEAD
 commit 1 on s4
 commit 4 on main
+=======
+commit 1 on s4
+>>>>>>> session4
