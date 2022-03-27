@@ -1,3 +1,25 @@
 Лазарев Д.А. ПР-20.102к
 //
 commit 3 on main
+commit 1 on s1
+commit 2 on s1
+commit 3 on s1
+commit 1 on s2
+commit 2 on s2
+commit 3 on s2
+commit 4 on s2
+commit 1 on s3
+commit 5 on s2
+commit 1 on s6
+commit 2 on s6
+commit 6 on s2
+commit 1 on s5 and commit s4 on s1
+commit 2 on s5
+commit 3 on s5
+commit 4 on s5
+we add session4
+commit 1 on s7(Edit name file)
+commit 2 on s7(finish)
+commit 5 on s5(finish)
+commit 1 on s4
+commit 4 on main
